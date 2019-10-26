@@ -61,6 +61,8 @@
 		A169AF032364590200660000 /* rm_scanner */ = {
 			isa = PBXGroup;
 			children = (
+				A169AF1E236461E500660000 /* Model */,
+				A169AF1D236461C100660000 /* GUI */,
 				A169AF042364590200660000 /* AppDelegate.h */,
 				A169AF052364590200660000 /* AppDelegate.m */,
 				A169AF072364590200660000 /* FirstViewController.h */,
@@ -74,6 +76,20 @@
 				A169AF162364590300660000 /* main.m */,
 			);
 			path = rm_scanner;
+			sourceTree = "<group>";
+		};
+		A169AF1D236461C100660000 /* GUI */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = GUI;
+			sourceTree = "<group>";
+		};
+		A169AF1E236461E500660000 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
